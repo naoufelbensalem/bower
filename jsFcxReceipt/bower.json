@@ -1,0 +1,21 @@
+{
+  "name": "jsFcxReceipt",
+  "version" : "1.0.0",
+  "description": "API Javascript for CJSA Receipt",
+  "main": "",
+  "authors": [
+    "Antoine Souchet"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "jsFcxReceipt"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "jsFcxReceipt.js",
+  "version": "1.0.0",
+  "description": "JS API for CJSA Receipt ",
+  "files": [
+    "jsFcxReceipt.js",
+    "jsFcxReceipt.min.js"
+  ],
+  "keywords": [
+    "jsFcxReceipt"
+  ],
+  "dependencies": {
+    "jsFcxReceipt": "^1.0.0"
+  }
+}
